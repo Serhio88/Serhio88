@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Serhio88
-- 👀 I’m interested in project management, infografics, data science, 
+- 👀 I’m interested in project management, infografics, data science, machine learning
 - 🌱 I’m currently learning data science
 
 the section will be updated soon :)
